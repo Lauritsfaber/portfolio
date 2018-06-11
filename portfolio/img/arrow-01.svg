@@ -1,0 +1,19 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 768">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #6a7e9b;
+      }
+    </style>
+  </defs>
+  <title>arrow</title>
+  <line class="cls-1" x1="192.41" y1="305.78" x2="521.72" y2="613.43"/>
+  <line class="cls-1" x1="219.85" y1="300" x2="549.17" y2="607.65"/>
+  <line class="cls-1" x1="192.41" y1="329.61" x2="521.72" y2="637.26"/>
+  <path id="_Clipping_Path_" data-name="&lt;Clipping Path&gt;" class="cls-2" d="M511.43,612,902.31,403.1l-16.72-14.48L516,586.14c-11.76,6.29-13.8,17.86-4.56,25.86Z"/>
+  <path id="_Clipping_Path_2" data-name="&lt;Clipping Path&gt;" class="cls-2" d="M511.58,612,120.69,403.1l16.73-14.48L507,586.14c11.75,6.29,13.8,17.86,4.56,25.86Z"/>
+</svg>

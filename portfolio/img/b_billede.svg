@@ -1,0 +1,21 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 733.7 557.47">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #161615;
+        stroke-miterlimit: 10;
+        stroke-width: 9px;
+      }
+
+      .cls-2 {
+        fill: #161615;
+      }
+    </style>
+  </defs>
+  <title>b_billede</title>
+  <g>
+    <polygon class="cls-1" points="366.67 8.19 8.35 552.97 725.35 552.97 366.67 8.19"/>
+    <polygon class="cls-2" points="618.74 391.24 505.06 552.97 725.34 552.97 618.74 391.24"/>
+  </g>
+</svg>
